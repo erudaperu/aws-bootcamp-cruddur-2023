@@ -1,5 +1,15 @@
 # FREE AWS Cloud Project Bootcamp
 
+## About this copy
+
+A learning workspace created from the [ExamPro Cruddur starter template](https://github.com/ExamProCo/aws-bootcamp-cruddur-2023) for the AWS Cloud Project Bootcamp.
+
+Start with [`frontend-react-js/`](frontend-react-js/) for the React interface, [`backend-flask/`](backend-flask/) for the Flask API, and [`journal/`](journal/) for the weekly learning structure. Each application directory includes its original README.
+
+The original bootcamp instructions, starter screenshots and homework checklist are retained below.
+
+---
+
 - Application: Cruddur
 - Cohort: 2023-A1
 
